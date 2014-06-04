@@ -7,6 +7,7 @@ Arquitetura
 ===========
 
 + Java
++ Maven
 
 Status
 ======
